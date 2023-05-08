@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-// import Notiflix from 'notiflix';
 import { nanoid } from 'nanoid';
 import ContactList from './ContactList';
 import ContactForm from './ContactForm';
